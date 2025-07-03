@@ -8,6 +8,15 @@ In real-world environments like healthcare and human-computer interaction, under
 🧪 Dataset Used
 Dataset: [WESAD (Wearable Stress and Affect Detection)]
 
+### 📂 Dataset
+
+This project uses the WESAD dataset (Wearable Stress and Affect Detection).  
+Due to licensing, the full dataset is not uploaded. You can access it from the official site:  
+🔗 [Download WESAD Dataset]https://www.kaggle.com/datasets/orvile/wesad-wearable-stress-affect-detection-dataset?resource=download)
+
+A sample preprocessed version (`wesad_sample.csv`) is included for demonstration purposes.
+
+
 Collected using wearable sensors (e.g., chest straps and wristbands)
 
 Contains multimodal signals:
