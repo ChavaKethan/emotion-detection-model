@@ -444,7 +444,7 @@ plt.show()
 import requests
 
 def get_weather_data(lat, lon):
-    api_key = 'fbab7143a27fed1db609931b7e2d4093'  # Replace with your actual API key
+    api_key = ''  # Replace with your actual API key
     url = f"http://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={api_key}"
     response = requests.get(url)
 
